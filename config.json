@@ -1,11 +1,11 @@
 {
-	"token": "MzgyOTU5OTgxNzg5NDQ2MTU0.DPdTWQ.7bHmerfBhqAJc53lwycT7AnYOnc",
+	"token": "NzY1Mjg2MjY3NzU1MDM2Njcy.X4SmYA.lVioBrR63VQaRoZw3R0_gmERhwU",
 	"servers": [
-		"137290656803454977",
-		"432311101598859266"
+		"764662300648407040",
+		"538105848669405234"
 	],
 	"roleName": "RAINBOW",
 	"colors": 64,
-	"speed": 250,
+	"speed": 10,
 	"logging": false
 }
